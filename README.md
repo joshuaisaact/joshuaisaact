@@ -32,7 +32,7 @@ Below is a list of what I’m currently working on.
 
 <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wooster.gif" alt="Wooster video" title="Wooster"/>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 An AI-powered app built in React that helps users plan trips and holidays. The app uses the Gemini API to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a PostgreSQL relational database built using Supabase.
 
@@ -40,7 +40,7 @@ An AI-powered app built in React that helps users plan trips and holidays. The a
 
  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/gossgif1mb.gif" alt="Goss video" title="Goss"/>
 
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
 
