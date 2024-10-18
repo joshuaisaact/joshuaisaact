@@ -9,17 +9,17 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
 ## Languages and Tools
 
 <div>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="35" alt="TypeScript logo" title="TypeScript"/>&nbsp;&nbsp;
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="35" alt="Next.js logo" title="Next.js"/>&nbsp;&nbsp;
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="35" alt="React logo" title="React"/>&nbsp;&nbsp;
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="35" alt="Tailwind CSS logo" title="Tailwind CSS"/>&nbsp;&nbsp;
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="35" alt="Supabase logo" title="Supabase"/>&nbsp;&nbsp;
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="35" alt="Node.js logo" title="Node.js"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original.svg" height="35" alt="Vitest logo" title="Vitest"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="35" alt="PostgreSQL logo" title="PostgreSQL"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-plain.svg" height="35" alt="Hugo logo" title="Hugo"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="35" alt="MongoDB logo" title="MongoDB"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitejs-original.svg" height="35" alt="Vite logo" title="Vite"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="40" alt="TypeScript logo" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="40" alt="Next.js logo" title="Next.js"/>&nbsp;&nbsp;
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="40" alt="React logo" title="React"/>&nbsp;&nbsp;
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" title="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="40" alt="Supabase logo" title="Supabase"/>&nbsp;&nbsp;
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js logo" title="Node.js"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original.svg" height="40" alt="Vitest logo" title="Vitest"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-plain.svg" height="40" alt="Hugo logo" title="Hugo"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="40" alt="MongoDB logo" title="MongoDB"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitejs-original.svg" height="40" alt="Vite logo" title="Vite"/>
 </div>
 
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
