@@ -61,6 +61,8 @@ A quiz website built in React, test your knowledge on whether certain objects or
 
 A fork of Atomize, a todo app built in React. Converted the codebase to TypeScript, and refactored the entire state management approach, implementing global context and useReducer, removing 13 useEffects, 21 state variables, and fixing a number of significant bugs that were causing unintended behaviour, particularly with asynchronous state.
 
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaisaact)](https://github.com/joshuaisaact/github-readme-stats)
+
 
 Thanks for visiting!
 
