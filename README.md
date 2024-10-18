@@ -34,11 +34,15 @@ Below is a list of what I’m currently working on.
 
 <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wooster.gif" alt="Wooster video" title="Wooster"/>
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 An AI-powered app built in React that helps users plan trips and holidays. The app uses the Gemini API to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a PostgreSQL relational database built using Supabase.
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/gossgif1mb.gif" alt="Goss video" title="Goss"/>
+
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
 
@@ -60,8 +64,6 @@ A quiz website built in React, test your knowledge on whether certain objects or
 ### [Atomize](https://github.com/joshuaisaact/Atomize-refactor)
 
 A fork of Atomize, a todo app built in React. Converted the codebase to TypeScript, and refactored the entire state management approach, implementing global context and useReducer, removing 13 useEffects, 21 state variables, and fixing a number of significant bugs that were causing unintended behaviour, particularly with asynchronous state.
-
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaisaact)](https://github.com/joshuaisaact/github-readme-stats)
 
 
 Thanks for visiting!
