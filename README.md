@@ -4,7 +4,9 @@ Welcome to my GitHub!
 
 I'm a passionate Full Stack Developer, currently working on a trip-planning app and a social media app.
 
-### Languages and Tools
+Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
+
+## Languages and Tools
 
 <div>
   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="35" alt="TypeScript logo" title="TypeScript"/>&nbsp;&nbsp;
@@ -21,10 +23,6 @@ I'm a passionate Full Stack Developer, currently working on a trip-planning app 
 </div>
 
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
-
-Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
-
-Below is a list of what I’m currently working on.
 
 ## Projects I'm Currently Working On:
 
