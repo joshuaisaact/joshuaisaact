@@ -8,12 +8,12 @@ I love experimenting with new technologies and working on impactful projects.
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="30" alt="typescript logo"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="30" alt="nextjs logo"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="30" alt="react logo"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="30" alt="tailwind logo"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="30" alt="supabase logo"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="30" alt="TypeScript logo" title="TypeScript" style="margin-right: 10px;"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="30" alt="Next.js logo" title="Next.js" style="margin-right: 10px;"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="30" alt="React logo" title="React" style="margin-right: 10px;"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" title="Tailwind CSS" style="margin-right: 10px;"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="30" alt="Supabase logo" title="Supabase" style="margin-right: 10px;"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-original-wordmark.svg" height="30" alt="Node.js logo" title="Node.js" style="margin-right: 10px;"/>
 </div>
 
 
