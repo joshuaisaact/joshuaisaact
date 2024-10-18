@@ -2,9 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a passionate Full Stack Developer with a diverse technical skill set.
-
-I love experimenting with new technologies and working on impactful projects.
+I'm a passionate Full Stack Developer, currently working on a trip-planning app and a social media app.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
