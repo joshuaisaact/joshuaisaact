@@ -1,4 +1,4 @@
-# Hi, I'm Joshua Tuddenham! 👋
+# Hi, I'm Josh! 👋
 
 Welcome to my GitHub!
 
