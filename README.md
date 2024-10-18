@@ -38,7 +38,7 @@ An AI-powered app built in React that helps users plan trips and holidays. The a
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
- <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/goss400.gif" alt="Goss video" title="Goss"/>
+ <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/gossgif1mb.gif" alt="Goss video" title="Goss"/>
 
 A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
 
