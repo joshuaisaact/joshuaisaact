@@ -32,7 +32,7 @@ Below is a list of what I’m currently working on.
 
 ### [Wooster](https://github.com/joshuaisaact/Wooster)
 
-
+<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wooster.gif" alt="Wooster video" title="Wooster"/>
 
 An AI-powered app built in React that helps users plan trips and holidays. The app uses the Gemini API to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a PostgreSQL relational database built using Supabase.
 
