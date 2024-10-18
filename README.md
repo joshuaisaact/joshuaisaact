@@ -46,7 +46,7 @@ A voice-note focused social media app built in Next.js, using mobile-first desig
 
 ### [Auto Refresher](https://github.com/joshuaisaact/Auto-refresher)
 
-<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="400" alt="Autorefresher extension" title="Autorefresher" />
+<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="100" alt="Autorefresher extension" title="Autorefresher" />
 
 
 A lightweight Chrome extension that continuously refreshes a tab at a user-inputted interval, only stopping when a user-entered word or phrase has been found on the page. Currently live on the Chrome web store:
