@@ -22,7 +22,7 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitejs-original.svg" height="40" alt="Vite logo" title="Vite"/>
 </div>
 
-Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
+Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Hugo, Git.
 
 ## Projects I'm Currently Working On:
 
