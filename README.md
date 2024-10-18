@@ -6,8 +6,10 @@ I'm a passionate Full Stack Developer with a diverse technical skill set.
 
 I love experimenting with new technologies and working on impactful projects.
 
-Technologies used:
+<h3 align="left">Languages and Tools:</h3>
+<img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/master/Icons/typescript-original.png" height="30" alt="typescript logo"/></a>
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
+
 
 Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
 
@@ -34,7 +36,7 @@ A quiz website built in React, test your knowledge on whether certain objects or
 
 ### [Atomize](https://github.com/joshuaisaact/Atomize-refactor)
 
-A fork of Atomize, a todo app built in React. I refactored the entire state management approach, implementing global context and useReducer, removing 13 useEffects, 21 state variables, and fixing a number of significant bugs that were causing unintended behaviour, particularly with asynchronous state.
+A fork of Atomize, a todo app built in React. Converted the codebase to TypeScript, and refactored the entire state management approach, implementing global context and useReducer, removing 13 useEffects, 21 state variables, and fixing a number of significant bugs that were causing unintended behaviour, particularly with asynchronous state.
 
 
 Thanks for visiting!
