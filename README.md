@@ -7,7 +7,14 @@ I'm a passionate Full Stack Developer with a diverse technical skill set.
 I love experimenting with new technologies and working on impactful projects.
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="30" alt="typescript logo"/><img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="30" alt="nextjs logo"/><img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="30" alt="react logo"/><img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="30" alt="tailwind logo"/><img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="30" alt="supabase logo"/><img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"/>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="30" alt="typescript logo"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="30" alt="nextjs logo"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="30" alt="react logo"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="30" alt="tailwind logo"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="30" alt="supabase logo"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"/>
+</div>
 
 
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
