@@ -4,7 +4,8 @@ Welcome to my GitHub!
 
 I'm a passionate Full Stack Developer, currently working on a trip-planning app and a social media app.
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
+
 <div>
   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="35" alt="TypeScript logo" title="TypeScript"/>&nbsp;&nbsp;
   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="35" alt="Next.js logo" title="Next.js"/>&nbsp;&nbsp;
@@ -21,12 +22,12 @@ I'm a passionate Full Stack Developer, currently working on a trip-planning app 
 
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
 
-
 Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
 
 Below is a list of what I’m currently working on.
 
 ## Projects I'm Currently Working On:
+
 
 ### [Wooster](https://github.com/joshuaisaact/Wooster)
 
@@ -34,7 +35,7 @@ Below is a list of what I’m currently working on.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-An AI-powered app built in React that helps users plan trips and holidays. The app uses the Gemini API to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a PostgreSQL relational database built using Supabase.
+An AI-powered app built in **React** that helps users plan trips and holidays. The app uses the **Gemini API** and prompt engineering to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a **PostgreSQL** relational database built using Supabase.
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
@@ -43,9 +44,10 @@ An AI-powered app built in React that helps users plan trips and holidays. The a
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
+A voice-note focused social media app built in **Next.js**, using mobile-first design principles. The backend is built using **Supabase**. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
 
 ## Smaller projects:
+
 
 ### [Auto Refresher](https://github.com/joshuaisaact/Auto-refresher)
 
@@ -67,5 +69,10 @@ A fork of Atomize, a todo app built in React. Converted the codebase to TypeScri
 
 Thanks for visiting!
 
-Feel free to explore my work, and if you're interested in collaborating on a project, don't hesitate to reach out!
+### Connect with me
+
+- [GitHub](https://github.com/joshuaisaact)
+- [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/)
+- [Email me](mailto:joshuaisaact@gmail.com)
+
 
