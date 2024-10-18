@@ -14,11 +14,11 @@ I love experimenting with new technologies and working on impactful projects.
   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="35" alt="Tailwind CSS logo" title="Tailwind CSS"/>&nbsp;&nbsp;
   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="35" alt="Supabase logo" title="Supabase"/>&nbsp;&nbsp;
   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="35" alt="Node.js logo" title="Node.js"/>
-  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original-wordmark.svg" height="35" alt="Vitest logo" title="Vitest"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original-wordmark.svg" height="35" alt="PostgreSQL logo" title="PostgreSQL"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-original-wordmark.svg" height="35" alt="Hugo logo" title="Hugo"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original-wordmark.svg" height="35" alt="MongoDB logo" title="MongoDB"/>
-   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitejs-original-wordmark.svg" height="35" alt="Vite logo" title="Vite"/>
+  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original.svg" height="35" alt="Vitest logo" title="Vitest"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="35" alt="PostgreSQL logo" title="PostgreSQL"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-plain.svg" height="35" alt="Hugo logo" title="Hugo"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="35" alt="MongoDB logo" title="MongoDB"/>
+   <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitejs-original.svg" height="35" alt="Vite logo" title="Vite"/>
 </div>
 
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
