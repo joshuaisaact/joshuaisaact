@@ -31,9 +31,15 @@ Below is a list of what I’m currently working on.
 ## Projects I'm Currently Working On:
 
 ### [Wooster](https://github.com/joshuaisaact/Wooster)
+
+
+
 An AI-powered app built in React that helps users plan trips and holidays. The app uses the Gemini API to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a PostgreSQL relational database built using Supabase.
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
+
+ <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/goss400.gif" alt="Goss video" title="Goss"/>
+
 A voice-note focused social media app built in Next.js, using mobile-first design principles. The backend is built using Supabase. Group project as part of Codeworks bootcamp. I built the notifications and follow features. Here's a demo video I cut together of the app: https://www.youtube.com/watch?v=B67vE1EfjiQ
 
 ## Smaller projects:
