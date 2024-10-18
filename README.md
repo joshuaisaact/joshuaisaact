@@ -27,7 +27,7 @@ Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Exp
 ## Projects I'm Currently Working On:
 
 
-### [Wooster](https://github.com/joshuaisaact/Wooster)
+### <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/wooster.png" height="20" alt="Wooster icon" title="Wooster"/> [Wooster](https://github.com/joshuaisaact/Wooster)
 
 <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wooster.gif" alt="Wooster video" title="Wooster"/>
 
