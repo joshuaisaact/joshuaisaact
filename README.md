@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with a diverse technical skill set.
 I love experimenting with new technologies and working on impactful projects.
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/master/icons/typescript-original.png" height="30" alt="typescript logo"/></a>
+<img align="center" src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="30" alt="typescript logo"/></a>
 Typescript, Next.js, React, Tailwind, HTML/CSS/JS, Supabase, Tanstack Query, Express.js, PostgreSQL, MongoDB, Vitest, Git.
 
 
