@@ -122,7 +122,7 @@ A voice-note focused social media app built in **Next.js**, using mobile-first d
 
 ### [Auto Refresh Nano](https://github.com/joshuaisaact/Auto-refresher)
 
-<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="100" alt="Autorefresher extension" title="Autorefresher" />
+<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="370" alt="Autorefresher extension" title="Autorefresher" />
 
 
 A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears.
