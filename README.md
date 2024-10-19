@@ -51,12 +51,12 @@ A voice-note focused social media app built in **Next.js**, using mobile-first d
 ## Smaller projects:
 
 
-### [Auto Refresher](https://github.com/joshuaisaact/Auto-refresher)
+### [Auto Refresh Nano](https://github.com/joshuaisaact/Auto-refresher)
 
 <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="100" alt="Autorefresher extension" title="Autorefresher" />
 
 
-A lightweight Chrome extension that continuously refreshes a tab at a user-inputted interval, only stopping when a user-entered word or phrase has been found on the page. [Currently available in the chrome web store.](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
+A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears. [Currently available in the chrome web store.](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
 
 
 ### [brat quiz](https://github.com/joshuaisaact/brat-quiz)
