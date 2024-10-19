@@ -1,8 +1,8 @@
 # Hi, I'm Josh! <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
 
-Welcome to my GitHub!
+Glad to see you here! I'm Josh Tuddenham, a **Software Engineer** with a strong passion for **JavaScript**, **React** and **open-source**. Im currently working on a trip-planning app and a social media app. When I'm not doing this, I fill my time running half marathons and going to gigs.
 
-I'm a passionate Full Stack Developer, currently working on a trip-planning app and a social media app.
+Before I got into coding, I spent a decade at startups in sales and product management, where it was all about understanding what people need and making things happen. Now, I bring that same mindset to building apps—focusing on creating tools that are both useful and fun to use.
 
 Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
 
