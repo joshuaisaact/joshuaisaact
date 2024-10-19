@@ -7,90 +7,52 @@ Before I got into coding, I spent a decade at startups in sales and product mana
 Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
 
 ## Tech stack
-<table>
-  <tr>
-    <td align="center" width="90px">
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
-      </a>
-      <br/>TypeScript
-    </td>
-    <td align="center" width="90px">
-      <a href="https://nextjs.org/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
-      </a>
-      <br/>Next.js
-    </td>
-    <td align="center" width="90px">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="40" alt="React" title="React"/>
-      </a>
-      <br/>React
-    </td>
-    <td align="center" width="90px">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-      </a>
-      <br/>Tailwind
-    </td>
-    <td align="center" width="90px">
-      <a href="https://supabase.com/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
-      </a>
-      <br/>Supabase
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90px">
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
-      </a>
-      <br/>Node.js
-    </td>
-    <td align="center" width="90px">
-      <a href="https://vitest.dev/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/>
-      </a>
-      <br/>Vitest
-    </td>
-    <td align="center" width="90px">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-      </a>
-      <br/>PostgreSQL
-    </td>
-    <td align="center" width="90px">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
-      </a>
-      <br/>MongoDB
-    </td>
-    <td align="center" width="90px">
-      <a href="https://gohugo.io/" target="_blank">
-        <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-plain.svg" height="40" alt="Hugo" title="Hugo"/>
-      </a>
-      <br/>Hugo
-    </td>
-  </tr>
-</table>
 
-<!-- Commented out icons below -->
-
-<!--
-<td align="center" width="90px">
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="40" alt="React" title="React"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gohugo.io/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-plain.svg" height="40" alt="Hugo" title="Hugo"/>
+  </a>
+   &nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postman-original.svg" height="40" alt="Postman" title="Postman"/>
   </a>
-  <br/>Postman
-</td>
-<td align="center" width="90px">
-  <a href="https://vite.dev/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitejs-original.svg" height="40" alt="Vite" title="Vite"/>
-  </a>
-  <br/>Vite
-</td>
--->
-
+</p>
 
 
 ## Current Major Projects:
