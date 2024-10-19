@@ -32,7 +32,7 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
       <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
       </a>
-      <br/>Tailwind CSS
+      <br/>Tailwind
     </td>
     <td align="center" width="100px">
       <a href="https://supabase.com/" target="_blank">
@@ -40,8 +40,6 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
       </a>
       <br/>Supabase
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100px">
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
@@ -72,8 +70,6 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
       </a>
       <br/>Hugo
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100px">
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
@@ -88,7 +84,6 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
     </td>
   </tr>
 </table>
-
 
 ## Projects I'm Currently Working On:
 
