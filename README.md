@@ -31,7 +31,7 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
       <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
       </a>
-      <br/>Tailwind CSS
+      <br/>Tailwind
     </td>
     <td align="center" width="90px">
       <a href="https://supabase.com/" target="_blank">
