@@ -1,4 +1,4 @@
-# Hi, I'm Josh! 👋
+# Hi, I'm Josh! <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
 
 Welcome to my GitHub!
 
@@ -56,7 +56,7 @@ A voice-note focused social media app built in **Next.js**, using mobile-first d
 <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="100" alt="Autorefresher extension" title="Autorefresher" />
 
 
-A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears. 
+A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears.
 
 [Currently available in the chrome web store.](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
 
