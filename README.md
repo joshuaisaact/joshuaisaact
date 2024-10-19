@@ -6,8 +6,7 @@ Before I got into coding, I spent a decade at startups in sales and product mana
 
 Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
 
-## Languages and Tools
-## Languages and Tools
+## Tech stack
 
 <table>
   <tr>
