@@ -93,7 +93,7 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
 
 
 
-## Projects I'm Currently Working On:
+## Current Major Projects:
 
 
 ### <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/wooster.png" height="20" alt="Wooster icon" title="Wooster"/> [Wooster](https://github.com/joshuaisaact/Wooster)
@@ -102,8 +102,9 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+An AI-powered trip-planning app built with **React**, **TypeScript**, **PostgreSQL**, and **Express.js**.
 
-An AI-powered app built in **React** that helps users plan trips and holidays. The app uses the **Gemini API** and prompt engineering to provide information about destinations and activites, and presents that to the user in an intuitive React app. The backend is built in Express, and the database is a **PostgreSQL** relational database built using Supabase.
+Wooster helps users plan trips and holidays by gathering information about destinations and activities using the **Gemini API**.
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
@@ -111,13 +112,16 @@ An AI-powered app built in **React** that helps users plan trips and holidays. T
 
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+A voice-note-focused social media app, designed with **mobile-first principles** and built in **Next.js**, **React**, and **TypeScript**.
 
-A voice-note focused social media app built in **Next.js**, using mobile-first design principles. The backend is built using **Supabase**. Group project as part of Codeworks bootcamp. Here's my demo video of the app:
+Goss lets users create and share voice notes. The backend is powered by **Supabase**.
+
+Click the image below to view my demo video of the app:
 
 [![Demo Video](https://img.youtube.com/vi/B67vE1EfjiQ/0.jpg)](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
 
-## Smaller projects:
+## Current Minor Projects:
 
 
 ### [Auto Refresh Nano](https://github.com/joshuaisaact/Auto-refresher)
