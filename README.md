@@ -32,6 +32,10 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
     <img src="./icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
   </a>
   &nbsp;&nbsp;
+   <a href="https://expressjs.com/" target="_blank">
+    <img src="./icons/express-custom.svg" height="40" alt="Express.js" title="Express.js"/>
+  </a>
+    &nbsp;&nbsp;
   <a href="https://supabase.com/" target="_blank">
     <img src="./icons/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
   </a>
