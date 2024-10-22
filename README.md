@@ -42,7 +42,7 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
   </a>
   &nbsp;&nbsp;
    <a href="https://orm.drizzle.team/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/drizzle.png" height="40" alt="Drizzle" title="Drizzle"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
