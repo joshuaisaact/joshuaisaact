@@ -70,7 +70,7 @@ Wooster helps users plan trips and holidays by gathering information about desti
 
 #### Links:
 - **[Frontend Repository](https://github.com/joshuaisaact/Wooster)**: Built using **React** and **TypeScript**.
-- **[Backend Repository](https://github.com/joshuaisaact/Wooster-server/tree/main)**: Powered by **Express.js** and **PostgreSQL**.
+- **[Backend Repository](https://github.com/joshuaisaact/Wooster-server/)**: Powered by **Express.js** and **PostgreSQL**.
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
