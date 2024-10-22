@@ -68,6 +68,10 @@ An AI-powered trip-planning app built with **React**, **TypeScript**, **PostgreS
 
 Wooster helps users plan trips and holidays by gathering information about destinations and activities using the **Gemini API**.
 
+#### Links:
+- **[Frontend Repository](https://github.com/joshuaisaact/Wooster)**: Built using **React** and **TypeScript**.
+- **[Backend Repository](https://github.com/joshuaisaact/Wooster-server/tree/main)**: Powered by **Express.js** and **PostgreSQL**.
+
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
  <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/gossgif1mb.gif" alt="Goss video" title="Goss"/>
