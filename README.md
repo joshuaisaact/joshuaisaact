@@ -1,4 +1,5 @@
-# Hi, I'm Josh! <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
+# Hi, I'm Josh! <img src="./animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
+
 
 Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for **JavaScript**, **React** and **open-source**. Im currently working on a trip-planning app and a social media app. When I'm not doing this, I fill my time running half marathons and going to gigs.
 
@@ -8,63 +9,71 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
 
 ## Tech stack
 
+## Tech stack
+
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+    <img src="./icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+    <img src="./icons/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/react-original.svg" height="40" alt="React" title="React"/>
+    <img src="./icons/react-original.svg" height="40" alt="React" title="React"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
+    <img src="./icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
+    <img src="./icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://vitest.dev/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="./icons/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+    <img src="./icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   </a>
   &nbsp;&nbsp;
    <a href="https://orm.drizzle.team/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/drizzle.png" height="40" alt="Drizzle" title="Drizzle"/>
+    <img src="./icons/drizzle.png" height="40" alt="Drizzle" title="Drizzle"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+    <img src="./icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="./icons/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="./icons/jest-plain.svg" height="40" alt="Jest" title="Jest"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://gohugo.io/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/hugo-plain.svg" height="40" alt="Hugo" title="Hugo"/>
+    <img src="./icons/hugo-plain.svg" height="40" alt="Hugo" title="Hugo"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postman-original.svg" height="40" alt="Postman" title="Postman"/>
+    <img src="./icons/postman-original.svg" height="40" alt="Postman" title="Postman"/>
   </a>
 </p>
+
 
 
 ## Current Major Projects:
 
 
-### <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/wooster.png" height="20" alt="Wooster icon" title="Wooster"/> [Wooster](https://github.com/joshuaisaact/Wooster)
+### <img src="./icons/wooster.png" height="20" alt="Wooster icon" title="Wooster"/> [Wooster](https://github.com/joshuaisaact/Wooster)
 
-<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/wooster.gif" alt="Wooster video" title="Wooster"/>
+<img src="./animations/wooster.gif" alt="Wooster video" title="Wooster"/>
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -78,7 +87,8 @@ Wooster helps users plan trips and holidays by gathering information about desti
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
- <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/animations/gossgif1mb.gif" alt="Goss video" title="Goss"/>
+<img src="./animations/gossgif1mb.gif" alt="Goss video" title="Goss"/>
+
 
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -96,7 +106,7 @@ Click the image below to view my demo video of the app:
 
 ### [Auto Refresh Nano](https://github.com/joshuaisaact/Auto-refresher)
 
-<img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/images/autorefresher.png" width="370" alt="Autorefresher extension" title="Autorefresher" />
+<img src="./images/autorefresher.png" width="370" alt="Autorefresher extension" title="Autorefresher" />
 
 
 A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears.
