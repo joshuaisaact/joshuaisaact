@@ -41,6 +41,10 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
     <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   </a>
   &nbsp;&nbsp;
+   <a href="https://orm.drizzle.team/" target="_blank">
+    <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://github.com/joshuaisaact/joshuaisaact/blob/main/icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
   </a>
