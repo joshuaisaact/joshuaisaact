@@ -9,8 +9,6 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
 
 ## Tech stack
 
-## Tech stack
-
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="./icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
