@@ -115,6 +115,7 @@ A lightweight Chrome extension that continuously refreshes until a user-entered 
 
 [Currently available in the chrome web store.](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
 
 ### [brat quiz](https://github.com/joshuaisaact/brat-quiz)
 A quiz website built in React, test your knowledge on whether certain objects or people are or are not brat.
