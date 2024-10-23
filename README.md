@@ -110,12 +110,13 @@ Click the image below to view my demo video of the app:
 
 <img src="./images/autorefresher.png" width="370" alt="Autorefresher extension" title="Autorefresher" />
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
 
 A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears.
 
 [Currently available in the chrome web store.](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-refresh-extension/haiekoimldaeincnjchccogfbejgbmej)
+
 
 ### [brat quiz](https://github.com/joshuaisaact/brat-quiz)
 A quiz website built in React, test your knowledge on whether certain objects or people are or are not brat.
