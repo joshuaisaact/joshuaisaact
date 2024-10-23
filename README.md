@@ -130,8 +130,7 @@ Thanks for visiting!
 
 ### Connect with me
 
-- [GitHub](https://github.com/joshuaisaact)
-- [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/)
-- [Email me](mailto:joshuaisaact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuatuddenham/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaisaact@gmail.com)
 
 
