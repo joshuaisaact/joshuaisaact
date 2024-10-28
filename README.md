@@ -1,11 +1,9 @@
 # Hi, I'm Josh! <img src="./animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
 
 
-Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for **JavaScript**, **React** and **open-source**. Im currently working on a trip-planning app and a social media app. When I'm not doing this, I fill my time running half marathons and going to gigs.
+Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for building scalable applications with **TypeScript**, **React** and **Node.js**. Recently won 🏆 Best in Category at JumpStart Hackathon for developing a DEI transparency platform. I'm currently working on Wooster, an AI-powered trip planning app.
 
-Before I got into coding, I spent a decade at startups in sales and product management, where it was all about understanding what people need and making things happen. Now, I bring that same mindset to building apps—focusing on creating tools that are both useful and fun to use.
-
-Feel free to explore my repositories, contribute, or reach out if you’re interested in collaborating.
+Before I got into coding, I spent a decade at fintech startups in sales and product management, where I gained deep experience in understanding user needs and delivering impactful solutions. Now, I bring that same user-centric mindset to software engineering—focusing on creating tools that solve real problems.
 
 ## Tech stack
 
