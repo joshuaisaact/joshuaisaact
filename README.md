@@ -67,7 +67,22 @@ Feel free to explore my repositories, contribute, or reach out if you’re inter
   </a>
 </p>
 
+## Recent Achievements 🏆
 
+### <img src="./icons/foundations.png" height="20" alt="Foundations icon" title="Foundations"/> [Foundations](https://github.com/joshuaisaact/dei-dashboard) - Hackathon Winner
+
+<img src="./animations/foundations.gif" alt="Foundations video" title="Foundations"/>
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+🏆 **Best in Category Winner** at JumpStart Hackathon (October 2024)
+
+A diversity and inclusion transparency platform built with **Next.js**, **React**, and **TypeScript**. Foundations helps jobseekers assess companies' commitment to diversity by visualizing gender pay gap data and employee-provided insights. Ideated, designed, and shipped in 24 hours.
+
+#### Links:
+- **[Live Demo](https://foundations-app.vercel.app/)**
+- **[Project Submission](https://hackathon.party/projects/foundations-7jk8l9)**
+- **[GitHub Repository](https://github.com/joshuaisaact/dei-dashboard)**
 
 ## Current Major Projects:
 
@@ -86,21 +101,6 @@ Wooster helps users plan trips and holidays by gathering information about desti
 #### Links:
 - **[Frontend Repository](https://github.com/joshuaisaact/Wooster)**
 - **[Backend Repository](https://github.com/joshuaisaact/Wooster-server/)**
-
-### <img src="./icons/foundations.png" height="20" alt="Foundations icon" title="Foundations"/> [Foundations](https://github.com/joshuaisaact/dei-dashboard)
-
-<img src="./animations/foundations.gif" alt="Foundations video" title="Foundations"/>
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-🏆 **Best in Category Winner** at JumpStart Hackathon - Ideated, designed, built and deployed in 24 hours.
-
-A diversity and inclusion transparency platform built with **Next.js**, **React**, and **TypeScript**. Foundations helps jobseekers assess companies' commitment to diversity by visualizing gender pay gap data and employee-provided insights.
-
-#### Links:
-- **[Live Demo](https://foundations-app.vercel.app/)**
-- **[Project Submission](https://hackathon.party/projects/foundations-7jk8l9)**
-- **[GitHub Repository](https://github.com/joshuaisaact/dei-dashboard)**
 
 ### [Goss](https://github.com/joshuaisaact/Goss)
 
