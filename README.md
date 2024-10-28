@@ -116,7 +116,7 @@ Click the image below to view my demo video of the app:
 [![Demo Video](https://img.youtube.com/vi/B67vE1EfjiQ/0.jpg)](https://www.youtube.com/watch?v=B67vE1EfjiQ)
 
 
-## Current Minor Projects:
+## Other Projects:
 
 
 ### [Auto Refresh Nano](https://github.com/joshuaisaact/Auto-refresher)
