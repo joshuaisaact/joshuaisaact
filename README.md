@@ -110,11 +110,6 @@ A voice-note-focused social media app, designed with **mobile-first principles**
 
 Goss lets users create and share voice notes. The backend is powered by **Supabase**.
 
-Click the image below to view my demo video of the app:
-
-[![Demo Video](https://img.youtube.com/vi/B67vE1EfjiQ/0.jpg)](https://www.youtube.com/watch?v=B67vE1EfjiQ)
-
-
 ## Other Projects:
 
 
