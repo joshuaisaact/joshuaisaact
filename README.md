@@ -83,7 +83,7 @@ Wooster helps users plan trips and holidays by gathering information about desti
 - **[Frontend Repository](https://github.com/joshuaisaact/Wooster)**
 - **[Backend Repository](https://github.com/joshuaisaact/Wooster-server/)**
 
-## <img src="./icons/foundations.svg" height="20" alt="Foundations icon" title="Foundations"/> [Foundations](https://github.com/joshuaisaact/dei-dashboard) - Hackathon Winner
+## <img src="./icons/foundations.svg" height="20" alt="Foundations icon" title="Foundations"/> [Foundations](https://github.com/joshuaisaact/dei-dashboard) - 🏆 Hackathon Winner 🏆
 
 <!-- <img src="./animations/foundations.gif" alt="Foundations video" title="Foundations"/> -->
 
