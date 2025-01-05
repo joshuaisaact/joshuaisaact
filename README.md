@@ -1,7 +1,7 @@
 # Hi, I'm Josh! <img src="./animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
 
 
-Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for building scalable applications with **TypeScript**, **React** and **Node.js**. Recently won 🏆 Best in Category at JumpStart Hackathon for developing a DEI transparency platform. I'm currently working on Wooster, an AI-powered trip planning app.
+Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for building scalable applications with **TypeScript**, **Go**, **React** and **Node.js**. Recently won 🏆 Best in Category at JumpStart Hackathon for developing a DEI transparency platform. I'm currently working on Wooster, an AI-powered trip planning app.
 
 Before I got into coding, I spent a decade at fintech startups in sales and product management, where I gained deep experience in understanding user needs and delivering impactful solutions. Now, I bring that same user-centric mindset to software engineering—focusing on creating tools that solve real problems.
 
@@ -10,6 +10,9 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="./icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  </a>
+   <a href="https://go.dev/" target="_blank">
+    <img src="./icons/go.svg" height="40" alt="TypeScript" title="Go"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank">
