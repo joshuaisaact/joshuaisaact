@@ -12,7 +12,7 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
     <img src="./icons/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
   </a>
    <a href="https://go.dev/" target="_blank">
-    <img src="./icons/go.svg" height="40" alt="TypeScript" title="Go"/>
+    <img src="./icons/go-wordmark.svg" height="40" alt="TypeScript" title="Go"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank">
