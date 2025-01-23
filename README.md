@@ -86,9 +86,22 @@ Wooster helps users plan trips and holidays by gathering information about desti
 - **[Frontend Repository](https://github.com/joshuaisaact/Wooster)**
 - **[Backend Repository](https://github.com/joshuaisaact/Wooster-server/)**
 
+
+### [JoshDesk](https://joshdesk.live)
+
+<img src="animations/deskselect.gif" alt="JoshDesk interface" title="JoshDesk"/>
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+A Slack app simplifying hybrid work coordination, built with **Bun**, **TypeScript**, and **Bolt.js**. Features instant status syncing, weather-aware planning, and smart reminders to keep teams coordinated.
+
+#### Links:
+- **[Live site](https://joshdesk.live)**
+
+
 ## <img src="./icons/foundations.svg" height="20" alt="Foundations icon" title="Foundations"/> [Foundations](https://github.com/joshuaisaact/dei-dashboard) - 🏆 Hackathon Winner 🏆
 
-<!-- <img src="./animations/foundations.gif" alt="Foundations video" title="Foundations"/> -->
+<img src="./animations/foundations.gif" alt="Foundations video" title="Foundations"/>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
