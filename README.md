@@ -91,9 +91,9 @@ Wooster helps users plan trips and holidays by gathering information about desti
 
 <img src="animations/deskselect.gif" alt="JoshDesk interface" title="JoshDesk"/>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-A Slack app simplifying hybrid work coordination, built with **Bun**, **TypeScript**, and **Bolt.js**. Features instant status syncing, weather-aware planning, and smart reminders to keep teams coordinated.
+A Slack app for hybrid work coordination built with **Bun**, **TypeScript**, and **Bolt.js**. Uses **SQLite** for data storage and implements Slack's event-driven API with WebSockets. Deployed on **DigitalOcean**. Features instant status syncing, weather integration, and smart reminders. Currently used by teams across multiple companies.
 
 #### Links:
 - **[Live site](https://joshdesk.live)**
