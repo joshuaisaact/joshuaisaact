@@ -27,6 +27,10 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
     <img src="./icons/react-original.svg" height="40" alt="React" title="React"/>
   </a>
   &nbsp;&nbsp;
+    <a href="https://graphql.org/" target="_blank">
+    <img src="./icons/graphql.svg" height="40" alt="GraphQL" title="GraphQL"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="./icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
