@@ -18,6 +18,10 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
    <a href="https://expressjs.com/" target="_blank">
     <img src="./icons/express-custom.svg" height="40" alt="Express.js" title="Express.js"/>
   </a>
+    &nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="./icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
+  </a>
   &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank">
     <img src="./icons/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
@@ -34,10 +38,7 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="./icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="./icons/nodejs-plain-wordmark.svg" height="40" alt="Node.js" title="Node.js"/>
-  </a>
+
     &nbsp;&nbsp;
   <a href="https://supabase.com/" target="_blank">
     <img src="./icons/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
