@@ -39,6 +39,10 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
     <img src="./icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="./icons/postman-original.svg" height="40" alt="Postman" title="Postman"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="./icons/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
@@ -59,6 +63,10 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
     <img src="./icons/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="./icons/playwright.svg" height="40" alt="Playwright" title="Playwright"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://jestjs.io/" target="_blank">
     <img src="./icons/jest-plain.svg" height="40" alt="Jest" title="Jest"/>
   </a>
@@ -66,10 +74,7 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
   <a href="https://gohugo.io/" target="_blank">
     <img src="./icons/hugo-plain.svg" height="40" alt="Hugo" title="Hugo"/>
   </a>
-   &nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="./icons/postman-original.svg" height="40" alt="Postman" title="Postman"/>
-  </a>
+  
 </p>
 
 ## Current Major Projects:
