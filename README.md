@@ -74,7 +74,7 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
   <a href="https://gohugo.io/" target="_blank">
     <img src="./icons/hugo-plain.svg" height="40" alt="Hugo" title="Hugo"/>
   </a>
-  
+
 </p>
 
 ## Current Major Projects:
@@ -137,6 +137,10 @@ Goss lets users create and share voice notes. The backend is powered by **Supaba
 
 ## Other Projects:
 
+### [Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+A foundational Go project for building AI agents that can interact with users and utilize tools. Uses the Anthropic (Claude) API by default and includes tools like file system operations (`read_file`, `list_files`, `edit_file`) and `ripgrep` integration for powerful text searches.
 
 ### [Auto Refresh Nano](https://github.com/joshuaisaact/Auto-refresher)
 
