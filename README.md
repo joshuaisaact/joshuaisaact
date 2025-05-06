@@ -1,7 +1,7 @@
 # Hi, I'm Josh! <img src="./animations/wave.gif" height="40" alt="Waving hand" title="Waving hand"/>
 
 
-Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for building scalable applications with **TypeScript**, **Go**, **React** and **Node.js**. Recently won 🏆 Best in Category at JumpStart Hackathon for developing a DEI transparency platform. I'm currently working on Wooster, an AI-powered trip planning app.
+Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for building scalable applications, particularly with **TypeScript** and **Go**. I currently apply my skills as a Full Stack Software Engineer at **Let's Do This**, blending my passion for running with technology. Beyond my day role, I'm actively exploring the AI landscape, diving into building agents and experimenting with LLMs. My work also includes projects like Wooster, an AI-powered trip planner, and a 🏆 Best in Category win at JumpStart Hackathon for a DEI transparency platform.
 
 Before I got into coding, I spent a decade at fintech startups in sales and product management, where I gained deep experience in understanding user needs and delivering impactful solutions. Now, I bring that same user-centric mindset to software engineering—focusing on creating tools that solve real problems.
 
