@@ -83,9 +83,9 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
 
 <a href="https://aigument.vercel.app/" target="_blank"><img src="https://aigument.vercel.app/aigument-preview.png" alt="AIgument Preview" title="AIgument"/></a>
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
 
-Watch AI models debate! AIgument allows users to pit different LLMs (like GPT-4o, Claude 3 Sonnet, Gemini 1.5 Flash) against each other on any topic. Assign unique personalities (e.g., Pirate, Butler), control debate "spiciness," vote on arguments, and browse saved debates. Built with **Next.js**, **TypeScript**, **Tailwind CSS**, and the **Vercel AI SDK**, integrating multiple leading LLM APIs.
+Forget boring benchmarks, watch AI models debate! Use **AIgument** to pit different LLMs (like GPT-4o, Claude 3 Sonnet, Gemini 2.5 Flash) against each other on any topic. Assign unique personalities (e.g., Detective Noir, Drag Queen), control debate "spiciness," vote on arguments, and browse saved debates. Built with **Next.js**, **TypeScript**, **Tailwind CSS**, and the **Vercel AI SDK**, integrating multiple leading LLM APIs and utilizing **Neon Serverless DB** for data persistence.
 
 #### Links:
 - **[Live Demo](https://aigument.vercel.app/)**
