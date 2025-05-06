@@ -79,7 +79,7 @@ Before I got into coding, I spent a decade at fintech startups in sales and prod
 
 ## Current Major Projects:
 
-### <img src="./icons/aigument-icon.png" height="20" alt="AIgument icon" title="AIgument"/> [AIgument](https://github.com/joshuaisaact/AIgument)
+### <img src="./icons/aigument.svg" height="20" alt="AIgument icon" title="AIgument"/> [AIgument](https://github.com/joshuaisaact/AIgument)
 
 <a href="https://aigument.vercel.app/" target="_blank"><img src="https://aigument.vercel.app/aigument-preview.png" alt="AIgument Preview" title="AIgument"/></a>
 
