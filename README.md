@@ -3,7 +3,7 @@
 
 Glad to see you here! I'm **Josh**, a **Software Engineer** with a strong passion for building scalable applications, particularly with **TypeScript** and **Go**. I currently apply my skills as a Full Stack Software Engineer at **Let's Do This**, blending my passion for running with technology. Beyond my day role, I'm actively exploring the AI landscape, diving into building agents and experimenting with LLMs. My work also includes projects like Wooster, an AI-powered trip planner, and a 🏆 Best in Category win at JumpStart Hackathon for a DEI transparency platform.
 
-Before I got into coding, I spent a decade at fintech startups in sales and product management, where I gained deep experience in understanding user needs and delivering impactful solutions. Now, I bring that same user-centric mindset to software engineering—focusing on creating tools that solve real problems.
+Before I got into coding, I spent a decade at fintech startups in sales and product management, where I gained deep experience in understanding user needs and delivering impactful solutions. Now, I bring that same user-centric mindset to software engineering, focusing on creating tools that solve real problems.
 
 ## Tech stack
 
@@ -179,6 +179,7 @@ Thanks for visiting!
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuatuddenham/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/joshtuddenham.tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaisaact@gmail.com)
 
 
