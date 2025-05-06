@@ -151,6 +151,11 @@ Goss lets users create and share voice notes. The backend is powered by **Supaba
 
 ## Other Projects:
 
+### [Bun Server Starter](https://github.com/joshuaisaact/bun-server-starter)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+A production-ready Bun HTTP server template featuring TypeScript, logging with Pino, and comprehensive typed error handling. Designed to provide a solid foundation for building HTTP APIs.
+
 ### [Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
