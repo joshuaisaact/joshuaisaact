@@ -164,16 +164,6 @@ A foundational Go project for building AI agents that can interact with users an
 
 A lightweight Chrome extension that continuously refreshes until a user-entered word or phrase either appears or disappears.
 
-### [brat quiz](https://github.com/joshuaisaact/brat-quiz)
-A quiz website built in React, test your knowledge on whether certain objects or people are or are not brat.
-
-## Past projects:
-
-### [Atomize](https://github.com/joshuaisaact/Atomize-refactor)
-
-A fork of Atomize, a todo app built in React. Converted the codebase to TypeScript, and refactored the entire state management approach, implementing global context and useReducer, removing 13 useEffects, 21 state variables, and fixing a number of significant bugs that were causing unintended behaviour, particularly with asynchronous state.
-
-
 Thanks for visiting!
 
 ### Connect with me
