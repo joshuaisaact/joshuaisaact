@@ -28,4 +28,4 @@ Before getting into engineering, I spent 10 years in fintech doing sales and pro
 
 ---
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/) • [Bluesky](https://bsky.app/profile/joshtuddenham.tech) • [Email](mailto:joshuaisaact@gmail.com)****
+**Find me:** [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/) • [Bluesky](https://bsky.app/profile/joshtuddenham.tech) • [Email](mailto:joshuaisaact@gmail.com)
