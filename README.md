@@ -14,13 +14,13 @@ Before getting into engineering, I spent 10 years in fintech doing sales and pro
 
 **[AIgument](https://aigument.vercel.app/)** - Pit different AI models against each other in debates. You can assign personalities, control how spicy the arguments get, and save the good ones. Handles multiple LLM APIs with real-time streaming.
 
+**[Wooster](https://github.com/joshuaisaact/Wooster)** - AI trip planner that actually helps you plan trips (React + PostgreSQL + Gemini API)
+
 **[JoshDesk](https://joshdesk.live)** - A Slack app for hybrid work coordination. Teams across multiple companies use it to sync their office presence, check weather, and get smart reminders. Built with Bun and TypeScript, deployed on DigitalOcean.
 
 **[Foundations](https://foundations-app.vercel.app/)** - 🏆 Won "Best in Category" at JumpStart Hackathon. A platform for job seekers to check companies' diversity stats and employee feedback. Went from idea to working product in 24 hours.
 
 ## Tools & Templates
-
-**[Wooster](https://github.com/joshuaisaact/Wooster)** - AI trip planner that actually helps you plan trips (React + PostgreSQL + Gemini API)
 
 **[Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)** - Starting point for building AI agents in Go, includes file operations and search tools
 
