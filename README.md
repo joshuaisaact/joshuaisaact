@@ -4,7 +4,7 @@ I'm a **Full Stack Software Engineer** at **[Let's Do This](https://www.letsdoth
 
 Outside of work, I'm deep into AI development - building agents, experimenting with LLMs, and generally trying to figure out what's possible with this stuff. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.tech/blog).
 
-Before getting into engineering, I spent 10 years in fintech doing sales and product management. That background helps me think about what users actually need, not just what's technically interesting.
+Before getting into engineering, I spent 10 years in fintech leading enterprise sales to hedge funds and asset managers - the kind of clients where your software either works perfectly or you don't get paid. That background means I think about what users actually need, not just what's technically interesting.
 
 ## Current Project
 
