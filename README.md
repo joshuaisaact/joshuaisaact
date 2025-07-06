@@ -1,6 +1,6 @@
 # Hey, I'm Josh 👋
 
-I'm a **Full Stack Software Engineer** at **Let's Do This**, where I build event discovery and booking platforms that help people find events and races worldwide. Day-to-day I work with TypeScript, React, and Node.js on systems that handle thousands of events and users.
+I'm a **Full Stack Software Engineer** at **[Let's Do This](https://www.letsdothis.com)**, where I build event discovery and booking platforms that help people find events and races worldwide. Day-to-day I work with TypeScript, React, and Node.js on systems that handle thousands of events and users.
 
 Outside of work, I'm deep into AI development - building agents, experimenting with LLMs, and generally trying to figure out what's possible with this stuff. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.tech/blog).
 
