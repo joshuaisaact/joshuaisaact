@@ -22,7 +22,7 @@ Assign unique personalities (e.g., Detective Noir, Drag Queen), control debate s
 - **[GitHub Repository](https://github.com/joshuaisaact/AIgument)**
 
 
-### <img src="./icons/wooster.png" height="20" alt="Wooster icon" title="Wooster"/> [Wooster](https://github.com/joshuaisaact/Wooster)
+### [Wooster](https://github.com/joshuaisaact/Wooster)
 
 <img src="./animations/wooster-github .gif" alt="Wooster video" title="Wooster"/>
 
