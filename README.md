@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Software Engineer** at **Let's Do This**, where I build event discovery and booking platforms that help people find races and adventures worldwide. Day-to-day I work with TypeScript, React, and Node.js on systems that handle thousands of events and users.
 
-Outside of work, I'm deep into AI development - building agents, experimenting with LLMs, and generally trying to figure out what's possible with this stuff. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.tech/blog). I also won a hackathon recently, which was fun.
+Outside of work, I'm deep into AI development - building agents, experimenting with LLMs, and generally trying to figure out what's possible with this stuff. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.tech/blog).
 
 Before getting into engineering, I spent 10 years in fintech doing sales and product management. That background helps me think about what users actually need, not just what's technically interesting.
 
