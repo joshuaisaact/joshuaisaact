@@ -10,7 +10,7 @@ Before getting into engineering, I spent 10 years in fintech leading enterprise 
 
 ## Current Project
 
-**[FlowAI](https://joshdesk.live)** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. Built with Bun, TypeScript, React Router v7, and Google's Generative AI SDK.
+**[FlowAI](https://joshdesk.live)** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. I wrote about **[the core challenges here](https://www.joshtuddenham.tech/blog/maya-creativity-paradox)**. Built with Bun, TypeScript, React Router v7, and Google's Generative AI SDK.
 
 ## Previous Projects
 
