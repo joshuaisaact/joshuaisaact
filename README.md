@@ -50,8 +50,7 @@ A Slack app for hybrid work coordination built with **Bun**, **TypeScript**, and
 - **[Live site](https://joshdesk.live)**
 
 
-## 
-<img src="./icons/foundations.svg" height="20" alt="Foundations icon" title="Foundations"/> [Foundations](https://github.com/joshuaisaact/dei-dashboard) - 🏆 Hackathon Winner 🏆
+## [Foundations](https://github.com/joshuaisaact/dei-dashboard) - 🏆 Hackathon Winner 🏆
 
 <img src="./animations/foundations.gif" alt="Foundations video" title="Foundations"/>
 
