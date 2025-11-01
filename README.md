@@ -4,13 +4,13 @@ I'm a **Full Stack Engineer** at **[Let's Do This](https://www.letsdothis.com)**
 
 I'm passionate about building robust and scalable software, particularly with TypeScript and Go. My background in enterprise SaaS informs my approach to crafting solutions, whether it's developing AI-powered platforms or award-winning hackathon projects.
 
-Currently diving deep into the AI landscape - building agents, experimenting with LLMs, and exploring the philosophical challenges of keeping AI systems creative as they become more intelligent. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.tech/blog).
+Currently diving deep into the AI landscape - building agents, experimenting with LLMs, and exploring the philosophical challenges of keeping AI systems creative as they become more intelligent. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.dev/blog).
 
 Before getting into engineering, I spent 10 years in fintech leading enterprise sales to hedge funds and asset managers - the kind of clients where your software either works perfectly or you don't get paid. That background means I think about what users actually need, not just what's technically interesting.
 
 ## Current Project
 
-**[FlowAI](https://joshdesk.live)** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. I wrote about **[the core challenges here](https://www.joshtuddenham.tech/blog/maya-creativity-paradox)**. Built with Bun, TypeScript, React Router v7, and Google's Generative AI SDK.
+**[FlowAI](https://joshdesk.live)** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. I wrote about **[the core challenges here](https://www.joshtuddenham.dev/blog/maya-creativity-paradox)**. Built with Bun, TypeScript, React Router v7, and Google's Generative AI SDK.
 
 ## Previous Projects
 
@@ -27,6 +27,8 @@ Before getting into engineering, I spent 10 years in fintech leading enterprise 
 **[Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)** - Starting point for building AI agents in Go, includes file operations and search tools
 
 **[Bun Server Starter](https://github.com/joshuaisaact/bun-server-starter)** - Production-ready Bun HTTP server template because I got tired of setting up the same logging and error handling
+
+**[Environment Setup](https://github.com/joshuaisaact/env-setup)** - One-script dev environment setup for Mac and Arch Linux. Dotfiles and configs so I feel at home on any machine.
 
 ---
 
