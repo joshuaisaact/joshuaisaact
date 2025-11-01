@@ -1,12 +1,12 @@
-# Hey, I'm Josh 👋
+# Hi, I'm Josh 👋
 
-I'm a **Full Stack Engineer** at **[Let's Do This](https://www.letsdothis.com)**, where I build event discovery and booking platforms that help people find events and races worldwide. We handle some of the biggest events in the world, including the London Marathon ballot system. Day-to-day I work with TypeScript, React, and Node.js on systems that process hundreds of thousands of registrations.
+I build software with TypeScript, Go, and Python, everything from AI-powered yoga instructors to hackathon-winning platforms.
 
-I'm passionate about building robust and scalable software, particularly with TypeScript and Go. My background in enterprise SaaS informs my approach to crafting solutions, whether it's developing AI-powered platforms or award-winning hackathon projects.
+I'm a Full Stack Engineer at [Let's Do This](https://www.letsdothis.com), where I build event discovery and booking platforms. We handle some of the biggest events in the world, including the London Marathon ballot system. I work with TypeScript, Node.js and Next.js, and on systems that process hundreds of thousands of registrations.
 
-Currently diving deep into the AI landscape - building agents, experimenting with LLMs, and exploring the philosophical challenges of keeping AI systems creative as they become more intelligent. I write about the interesting problems I encounter on [my blog](https://www.joshtuddenham.dev/blog).
+Right now I'm exploring everything from AI agents to low-level systems work - basically whatever seems interesting. I write about the problems I run into on [my blog](https://www.joshtuddenham.dev/blog).
 
-Before getting into engineering, I spent 10 years in fintech leading enterprise sales to hedge funds and asset managers - the kind of clients where your software either works perfectly or you don't get paid. That background means I think about what users actually need, not just what's technically interesting.
+Before this, I spent a decade selling enterprise software. It made me the kind of engineer who cares more about solving real problems than writing clever code.
 
 ## Current Project
 
