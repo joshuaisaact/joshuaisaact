@@ -18,7 +18,7 @@ Before this, I spent a decade selling enterprise software. It made me the kind o
 
 **[Wooster](https://github.com/joshuaisaact/Wooster)** - AI trip planner that actually helps you plan trips (React + PostgreSQL + Gemini API)
 
-**[JoshDesk](https://joshdesk.live)** - A Slack app for hybrid work coordination. Teams across multiple companies use it to sync their office presence, check weather, and get smart reminders. Built with Bun and TypeScript, deployed on DigitalOcean.
+**[JoshDesk](https://joshdesk.joshtuddenham.dev/)** - A Slack app for hybrid work coordination. Teams across multiple companies use it to sync their office presence, check weather, and get smart reminders. Built with Bun and TypeScript, open source and self-hostable.
 
 **[Foundations](https://foundations-app.vercel.app/)** - 🏆 Won "Best in Category" at JumpStart Hackathon. A platform for job seekers to check companies' diversity stats and employee feedback. Went from idea to working product in 24 hours.
 
