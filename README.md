@@ -14,6 +14,8 @@ Before this, I spent a decade selling enterprise software. It made me the kind o
 
 ## Previous Projects
 
+**[Music Round](https://github.com/joshuaisaact/music-round)** - Real-time multiplayer song guessing game. Players identify songs from Spotify previews, with daily challenges and battle royale mode. Built with React 19, TanStack Start, and Convex for real-time sync.
+
 **[AIgument](https://aigument.vercel.app/)** - Pit different AI models against each other in debates. You can assign personalities, control how spicy the arguments get, and save the good ones. Handles multiple LLM APIs with real-time streaming.
 
 **[Wooster](https://github.com/joshuaisaact/Wooster)** - AI trip planner that actually helps you plan trips (React + PostgreSQL + Gemini API)
