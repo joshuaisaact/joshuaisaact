@@ -34,4 +34,4 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 ---
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/) • [Bluesky](https://bsky.app/profile/joshtuddenham.tech) • [Email](mailto:joshuaisaact@gmail.com)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/) • [Bluesky](https://bsky.app/profile/joshtuddenham.dev) • [Email](mailto:joshuaisaact@gmail.com)
