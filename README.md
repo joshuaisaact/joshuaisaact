@@ -6,7 +6,7 @@ I'm a Full Stack Engineer at [Let's Do This](https://www.letsdothis.com), where 
 
 Right now I'm exploring everything from AI agents to low-level systems work - basically whatever seems interesting. I write about the problems I run into on [my blog](https://www.joshtuddenham.dev/blog).
 
-Before this, I spent a decade selling enterprise software. It made me the kind of engineer who cares more about solving real problems than writing clever code.
+Before this, I spent a decade selling enterprise software. Turns out understanding what people need is most of the battle.
 
 ## Current Project
 
