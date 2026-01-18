@@ -1,6 +1,6 @@
 # Hi, I'm Josh 👋
 
-I build software with TypeScript, Go, and Python, everything from AI-powered yoga instructors to hackathon-winning platforms.
+I build software with TypeScript, Zig, Go, and Python, everything from AI-powered yoga instructors to hackathon-winning platforms.
 
 I'm a Full Stack Engineer at [Let's Do This](https://www.letsdothis.com), where I build event discovery and booking platforms. We handle some of the biggest events in the world, including the London Marathon ballot system. I work with TypeScript, Node.js and Next.js, and on systems that process hundreds of thousands of registrations.
 
