@@ -8,13 +8,15 @@ Right now I'm exploring everything from AI agents to low-level systems work - ba
 
 Before this, I spent a decade selling enterprise software. Turns out understanding what people need is most of the battle.
 
-## Current Project
+## Projects
 
-**FlowAI** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. I wrote about **[the core challenges here](https://www.joshtuddenham.dev/blog/maya-creativity-paradox)**. Built with Bun, TypeScript, React Router v7, Elysia, and Google's Gen AI SDK.
+**[Elastic Hash](https://github.com/joshuaisaact/elastic-hash)** - Zig implementation of elastic hashing from an [academic paper](https://arxiv.org/pdf/2501.02305). 4-8x faster inserts than std.HashMap at 99% load factor. A deep dive into hash table internals and SIMD optimization. I wrote about it **[here](https://www.joshtuddenham.dev/blog/hashmaps)**.
 
-## Previous Projects
+**[FizzBuzz Enterprise Edition](https://github.com/joshuaisaact/fizzbuzz-enterprise-edition-2026)** - Satirical "enterprise-grade" FizzBuzz with event-driven architecture, AI-powered divisibility detection via LLM fallback chains, and comprehensive observability. Because sometimes you need to over-engineer the classics.
 
 **[Music Round](https://github.com/joshuaisaact/music-round)** - Real-time multiplayer song guessing game. Players identify songs from Spotify previews, with daily challenges and battle royale mode. Built with React 19, TanStack Start, and Convex for real-time sync.
+
+**FlowAI** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. I wrote about **[the core challenges here](https://www.joshtuddenham.dev/blog/maya-creativity-paradox)**. Built with Bun, TypeScript, React Router v7, Elysia, and Google's Gen AI SDK.
 
 **[AIgument](https://aigument.vercel.app/)** - Pit different AI models against each other in debates. You can assign personalities, control how spicy the arguments get, and save the good ones. Handles multiple LLM APIs with real-time streaming.
 
