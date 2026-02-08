@@ -28,6 +28,8 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 ## Tools & Templates
 
+**[Petri Net](https://github.com/joshuaisaact/petri-net)** - A Petri net engine and three worked examples that teach concurrency concepts — from basic vocabulary (coffee brewing) to parallel approval (contracts) to resource contention (checkout). Includes a reachability analyser that proves invariants like "can't oversell inventory". Blog post coming soon.
+
 **[Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)** - Starting point for building AI agents in Go, includes file operations and search tools
 
 **[Bun Server Starter](https://github.com/joshuaisaact/bun-server-starter)** - Production-ready Bun HTTP server template because I got tired of setting up the same logging and error handling
