@@ -16,7 +16,7 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 **[Music Round](https://github.com/joshuaisaact/music-round)** - Real-time multiplayer song guessing game. Players identify songs from Spotify previews, with daily challenges and battle royale mode. Built with React 19, TanStack Start, and Convex for real-time sync.
 
-**FlowAI** - An agentic AI yoga instructor that creates personalized sessions and explores the creativity vs. efficiency paradox in AI systems. Maya (the AI instructor) understands traditional yoga sequences while generating custom practices based on user needs. Currently grappling with how to keep AI creative as it becomes more knowledgeable. I wrote about **[the core challenges here](https://www.joshtuddenham.dev/blog/maya-creativity-paradox)**. Built with Bun, TypeScript, React Router v7, Elysia, and Google's Gen AI SDK.
+**FlowAI** - An agentic AI yoga instructor that generates personalized sessions. I wrote about **[the creativity vs. efficiency paradox here](https://www.joshtuddenham.dev/blog/maya-creativity-paradox)**.
 
 **[AIgument](https://aigument.vercel.app/)** - Pit different AI models against each other in debates. You can assign personalities, control how spicy the arguments get, and save the good ones. Handles multiple LLM APIs with real-time streaming.
 
@@ -26,7 +26,7 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 ## Tools & Templates
 
-**[Petri Net](https://github.com/joshuaisaact/petri-net)** - A Petri net engine and three worked examples that teach concurrency concepts — from basic vocabulary (coffee brewing) to parallel approval (contracts) to resource contention (checkout). Includes a reachability analyser that proves invariants like "can't oversell inventory". I wrote about it **[here](https://www.joshtuddenham.dev/blog/petri-nets/)**.
+**[Petri Net](https://github.com/joshuaisaact/petri-net)** - A Petri net engine and three worked examples that teach concurrency concepts: from basic vocabulary (coffee brewing) to parallel approval (contracts) to resource contention (checkout). Includes a reachability analyser that proves invariants like "can't oversell inventory". I wrote about it **[here](https://www.joshtuddenham.dev/blog/petri-nets/)**.
 
 **[Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)** - Starting point for building AI agents in Go, includes file operations and search tools
 
