@@ -2,7 +2,7 @@
 
 I build software with TypeScript, Zig, Go, and Python, everything from AI-powered yoga instructors to hackathon-winning platforms.
 
-I'm a Full Stack Engineer at [Let's Do This](https://www.letsdothis.com), where I build event discovery and booking platforms. We handle some of the biggest events in the world, including the London Marathon ballot system. I work with TypeScript, Node.js and Next.js, and on systems that process hundreds of thousands of registrations.
+I'm a software engineer at [Let's Do This](https://www.letsdothis.com), where I build event discovery and booking platforms. We handle some of the biggest events in the world, including the London Marathon ballot system. I work with TypeScript, Node.js and Next.js, and on systems that process hundreds of thousands of registrations.
 
 Right now I'm exploring everything from AI agents to low-level systems work - basically whatever seems interesting. I write about the problems I run into on [my blog](https://www.joshtuddenham.dev/blog).
 
