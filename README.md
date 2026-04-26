@@ -34,6 +34,10 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 **[Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)** - Starting point for building AI agents in Go, includes file operations and search tools
 
+## Research & Experiments
+
+**[Pointer Experiments](https://github.com/joshuaisaact/pointer-experiments)** - Testing pointer-based context management for long-running AI agents as an alternative to summarization. Replaces conversation content with lightweight chunk IDs and a retrieval tool, achieving 92% grounding vs 74% for summaries across cascaded compaction cycles.
+
 ---
 
 **Find me:** [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/) • [Bluesky](https://bsky.app/profile/joshtuddenham.dev) • [Email](mailto:joshuaisaact@gmail.com)
