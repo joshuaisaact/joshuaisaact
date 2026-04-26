@@ -22,8 +22,6 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 **[AIgument](https://aigument.vercel.app/)** - Pit different AI models against each other in debates. You can assign personalities, control how spicy the arguments get, and save the good ones. Handles multiple LLM APIs with real-time streaming.
 
-**[JoshDesk](https://joshdesk.joshtuddenham.dev/)** - A Slack app for hybrid work coordination. Teams across multiple companies use it to sync their office presence, check weather, and get smart reminders. Built with Bun and TypeScript, open source and self-hostable.
-
 **[Foundations](https://foundations-app.vercel.app/)** - 🏆 Won "Best in Category" at JumpStart Hackathon. A platform for job seekers to check companies' diversity stats and employee feedback. Went from idea to working product in 24 hours.
 
 ## Tools & Templates
