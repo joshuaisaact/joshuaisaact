@@ -10,6 +10,8 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 ## Projects
 
+**[Hearth](https://github.com/joshuaisaact/hearth)** - Local-first Firecracker microVM sandboxes for AI agent development. Spawns isolated VMs in ~135ms via snapshot restore, with sub-millisecond command execution over virtio-vsock. Think E2B, but runs entirely on your machine. (WIP)
+
 **[PetriFlow](https://github.com/joshuaisaact/petri-flow)** - A Petri net-based safety layer for AI agents. A declarative `.rules` DSL compiles each rule into a verified Petri net, enforcing tool access control, sequencing, rate limits, and human approval gates before an agent runs. Includes a Vercel AI SDK adapter, interactive visualiser, and four example agents. Published on [npm](https://www.npmjs.com/package/@petriflow/rules). I wrote about it **[here](https://petriflow.joshtuddenham.dev/)**.
 
 **[Elastic Hash](https://github.com/joshuaisaact/elastic-hash)** - Zig implementation of elastic hashing from an [academic paper](https://arxiv.org/pdf/2501.02305). 4-8x faster inserts than std.HashMap at 99% load factor. A deep dive into hash table internals and SIMD optimization. I wrote about it **[here](https://www.joshtuddenham.dev/blog/hashmaps)**.
