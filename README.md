@@ -34,7 +34,7 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 **[Go AI Agent Foundation](https://github.com/joshuaisaact/Go-AI-Agent)** - Starting point for building AI agents in Go, includes file operations and search tools
 
-**[Bun Server Starter](https://github.com/joshuaisaact/bun-server-starter)** - Production-ready Bun HTTP server template because I got tired of setting up the same logging and error handling
+**[Auto Claude](https://github.com/joshuaisaact/auto-claude)** - Automated Claude Code agent runner that executes tasks from a queue file, handles context limits with automatic session restarts, and supports custom system prompts
 
 ---
 
