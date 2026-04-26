@@ -34,6 +34,8 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 
 ## Research & Experiments
 
+**[Forks & Locks](https://github.com/joshuaisaact/forks-locks)** - Empirically testing whether per-token entropy-adaptive decoding can close the gap between fixed temperature and SSD (Self-Distillation) on code generation. Confirms the theoretical ceiling of decode-time approaches and validates SSD gains with private-test-filtered training data (+2.98% pass@1). Benchmarked on LiveCodeBench v6 with RTX 4090.
+
 **[Pointer Experiments](https://github.com/joshuaisaact/pointer-experiments)** - Testing pointer-based context management for long-running AI agents as an alternative to summarization. Replaces conversation content with lightweight chunk IDs and a retrieval tool, achieving 92% grounding vs 74% for summaries across cascaded compaction cycles.
 
 ---
