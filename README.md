@@ -4,8 +4,6 @@ I build software with TypeScript, Zig, Go, and Python, everything from AI-powere
 
 I'm an AI engineer at [Granola](https://www.granola.ai), the AI notepad for people in back-to-back meetings.
 
-Before that I was a software engineer at [Let's Do This](https://www.letsdothis.com), building event discovery and booking platforms that handle some of the biggest events in the world, including the London Marathon ballot system.
-
 Right now I'm exploring everything from AI agents to low-level systems work - basically whatever seems interesting. I write about the problems I run into on [my blog](https://www.joshtuddenham.dev/blog).
 
 Before this, I spent a decade selling enterprise software. Turns out understanding what people need is most of the battle.
