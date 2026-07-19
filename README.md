@@ -2,7 +2,9 @@
 
 I build software with TypeScript, Zig, Go, and Python, everything from AI-powered yoga instructors to hackathon-winning platforms.
 
-I'm a software engineer at [Let's Do This](https://www.letsdothis.com), where I build event discovery and booking platforms. We handle some of the biggest events in the world, including the London Marathon ballot system. I work with TypeScript, Node.js and Next.js, and on systems that process hundreds of thousands of registrations.
+I'm an AI engineer at [Granola](https://www.granola.ai), the AI notepad for people in back-to-back meetings.
+
+Before that I was a software engineer at [Let's Do This](https://www.letsdothis.com), building event discovery and booking platforms that handle some of the biggest events in the world, including the London Marathon ballot system.
 
 Right now I'm exploring everything from AI agents to low-level systems work - basically whatever seems interesting. I write about the problems I run into on [my blog](https://www.joshtuddenham.dev/blog).
 
@@ -19,12 +21,6 @@ Before this, I spent a decade selling enterprise software. Turns out understandi
 **[FizzBuzz Enterprise Edition](https://github.com/joshuaisaact/fizzbuzz-enterprise-edition-2026)** - Satirical "enterprise-grade" FizzBuzz with event-driven architecture, AI-powered divisibility detection via LLM fallback chains, and comprehensive observability. Because sometimes you need to over-engineer the classics.
 
 **[Music Round](https://github.com/joshuaisaact/music-round)** - Real-time multiplayer song guessing game. Players identify songs from Spotify previews, with daily challenges and battle royale mode. Built with React 19, TanStack Start, and Convex for real-time sync.
-
-**FlowAI** - An agentic AI yoga instructor that generates personalized sessions. I wrote about **[the creativity vs. efficiency paradox here](https://www.joshtuddenham.dev/blog/maya-creativity-paradox)**.
-
-**[AIgument](https://aigument.vercel.app/)** - Pit different AI models against each other in debates. You can assign personalities, control how spicy the arguments get, and save the good ones. Handles multiple LLM APIs with real-time streaming.
-
-**[Foundations](https://foundations-app.vercel.app/)** - 🏆 Won "Best in Category" at JumpStart Hackathon. A platform for job seekers to check companies' diversity stats and employee feedback. Went from idea to working product in 24 hours.
 
 ## Tools & Templates
 
